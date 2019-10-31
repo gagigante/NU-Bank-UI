@@ -9,7 +9,7 @@ import Header from '~/components/Header';
 import Tabs from '~/components/Tabs';
 import Menu from '~/components/Menu';
 
-import { Container, Content, Card, CardHeader, CardContent, CardFooter, Title, Annotation, Description, Group, Text } from './styles';
+import { Container, Content, CardList, Card, CardHeader, CardContent, CardFooter, Title, Annotation, Description, Group, Text } from './styles';
 
 export default function Main() {
 
@@ -81,7 +81,7 @@ export default function Main() {
             </CardHeader>
             <CardContent>
               <Title>Saldo disponivel</Title>
-              <Description>R$ 700.611,67</Description>
+              <Description>R$ 999.999,99</Description>
             </CardContent>
             <CardFooter>
               <Annotation>
